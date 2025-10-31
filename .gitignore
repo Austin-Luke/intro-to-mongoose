@@ -1,0 +1,4 @@
+.env
+node_modules
+
+# sensitive data will be omitted from git
